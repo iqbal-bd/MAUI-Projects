@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MAUI Projects\\SampleMauiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|f:\\maui projects\\samplemauiapp\\pages\\tabbedpagedemo\\demotabbedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|solutionrelative:pages\\tabbedpagedemo\\demotabbedpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|f:\\maui projects\\samplemauiapp\\pages\\tabbedpagedemo\\demotabbedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|solutionrelative:pages\\tabbedpagedemo\\demotabbedpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|f:\\maui projects\\samplemauiapp\\samplemauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|solutionrelative:samplemauiapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|f:\\maui projects\\samplemauiapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{143A9046-08A2-4A63-A3B4-B52CA3B8333D}|SampleMauiApp.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\MAUI Projects\\SampleMauiApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "F:\\MAUI Projects\\SampleMauiApp\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:50:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleMauiApp",
+              "DocumentMoniker": "F:\\MAUI Projects\\SampleMauiApp\\SampleMauiApp.csproj",
+              "RelativeDocumentMoniker": "SampleMauiApp.csproj",
+              "ToolTip": "F:\\MAUI Projects\\SampleMauiApp\\SampleMauiApp.csproj",
+              "RelativeToolTip": "SampleMauiApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-29T19:47:23.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DemoTabbedPage.xaml.cs",
+              "DocumentMoniker": "F:\\MAUI Projects\\SampleMauiApp\\Pages\\TabbedPageDemo\\DemoTabbedPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\TabbedPageDemo\\DemoTabbedPage.xaml.cs",
+              "ToolTip": "F:\\MAUI Projects\\SampleMauiApp\\Pages\\TabbedPageDemo\\DemoTabbedPage.xaml.cs",
+              "RelativeToolTip": "Pages\\TabbedPageDemo\\DemoTabbedPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T19:36:08.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DemoTabbedPage.xaml",
+              "DocumentMoniker": "F:\\MAUI Projects\\SampleMauiApp\\Pages\\TabbedPageDemo\\DemoTabbedPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\TabbedPageDemo\\DemoTabbedPage.xaml",
+              "ToolTip": "F:\\MAUI Projects\\SampleMauiApp\\Pages\\TabbedPageDemo\\DemoTabbedPage.xaml",
+              "RelativeToolTip": "Pages\\TabbedPageDemo\\DemoTabbedPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-29T19:35:33.483Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
